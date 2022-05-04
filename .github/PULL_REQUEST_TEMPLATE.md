@@ -31,7 +31,7 @@ After submitting this Pull Request (and agreeing to this copyright assignment), 
 Clicking the box below (or placing an "x" within it, per the syntax of GitHub Pull Requests) is considered an electronic signature. By clicking the box and submitting this Pull Request, you are agreeing that your electronic signature is the legal equivalent of your manual signature on this Copyright Assignment if it was printed out, signed, and mailed or faxed to the Assignee.
 </details>
 
-- [ ] I, **NAME**, have read andd agree to the terms above.
+- [ ] I, **NAME**, have read and agree to the terms above.
 
 Email: **address@example.com**
 
