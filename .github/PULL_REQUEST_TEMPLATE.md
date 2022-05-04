@@ -40,7 +40,8 @@ For the purposes of this Copyright Assignment, the date and time of the signatur
 #### Why do I require a copyright assignment?
 <details>
 <summary> Click to expand </summary>
-I require a copyright assignment for changes to my projects for the same reason as the Free Software Foundation, and they do a much better job of explaining it in [their post](https://www.gnu.org/licenses/why-assign.en.html) than I could ever do.
+I require a copyright assignment for changes to my projects for the same reason as the Free Software Foundation, and they do a much better job of explaining it in at https://www.gnu.org/licenses/why-assign.en.html than I could ever do.
+
 
 Please email any questions about the copyright assignment to COPYRIGHT@morpheus636.com
 </details>
