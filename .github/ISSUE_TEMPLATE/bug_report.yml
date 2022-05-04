@@ -18,9 +18,15 @@ body:
   - type: input
     attributes:
       label: Version
-      description: The version number (or output of `git describe --tags` if you're running from source)
-      placeholder: v0.0.0
-  # OS
+      description: 
+      placeholder: The version number (or output of `git describe --tags` if you're running from source)
+  - type: checkboxes
+    attributes:
+      label: OS
+      options:
+        - label: MacOS
+        - label: Windows
+        - label: Linux
   - type: textarea
     attributes:
       label: Additional Context
