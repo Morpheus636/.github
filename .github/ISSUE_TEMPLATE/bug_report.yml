@@ -18,7 +18,6 @@ body:
   - type: input
     attributes:
       label: Version
-      description: 
       placeholder: The version number (or output of `git describe --tags` if you're running from source)
   - type: checkboxes
     attributes:
