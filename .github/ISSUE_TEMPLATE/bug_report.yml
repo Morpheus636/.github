@@ -1,5 +1,6 @@
 name: Bug Report
 description: Submit a bug you found in the software
+labels: [bug]
 body:
   - type: markdown
     attributes:
