@@ -11,13 +11,13 @@ Closes #0
 
 ## Change Type
 ### Category
--[ ] This is a Bugfix
--[ ] This is a Feature Addition
--[ ] This is a CI Change
--[ ] This is a Documentation-Only Change (do not check any of the above boxes if this box is checked)
+- [ ] This is a Bugfix
+- [ ] This is a Feature Addition
+- [ ] This is a CI Change
+- [ ] This is a Documentation-Only Change (do not check any of the above boxes if this box is checked)
 ### Breaking/Non Breaking
--[ ] This is a Breaking Change
--[ ] This is a Non-Breaking Change
+- [ ] This is a Breaking Change
+- [ ] This is a Non-Breaking Change
 
 #### Reasoning
 If you answered "This is a Breaking Change" above, explain why your
@@ -35,7 +35,7 @@ After submitting this Pull Request (and agreeing to this copyright assignment), 
 Clicking the box below (or placing an "x" within it, per the syntax of GitHub Pull Requests) is considered an electronic signature. By clicking the box and submitting this Pull Request, you are agreeing that your electronic signature is the legal equivalent of your manual signature on this Copyright Assignment if it was printed out, signed, and mailed or faxed to the Assignee.
 
 
--[ ] I, **NAME**, agree to the terms above.
+- [ ] I, **NAME**, agree to the terms above.
 
 Email: **address@example.com**
 
