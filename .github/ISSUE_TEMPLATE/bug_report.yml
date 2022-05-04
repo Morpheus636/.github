@@ -1,0 +1,27 @@
+name: Bug Report
+description: Submit a bug you found in the software
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **GitHub Issues are not a support channel**.
+        Please use Discord or the Forums if you need help or have a question
+  - type: textarea
+    attributes:
+      label: Describe the Bug
+  - type: textarea
+    attributes:
+      label: Expected Behaviour
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce the Bug
+  - type: input
+    attributes:
+      label: Version
+      description: The version number (or output of `git describe --tags` if you're running from source)
+      placeholder: v0.0.0
+  # OS
+  - type: textarea
+    attributes:
+      label: Additional Context
+
