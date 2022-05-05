@@ -1,0 +1,17 @@
+name: Feature Request
+description: Submit and idea for a feature you would like to see added
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: Describe the Feature
+  - type: textarea
+    attributes:
+      label: Closing Requirements
+      description: The developer who implements the feature must complete these tasks for the issue to be closed.
+      placeholder: |
+        - [ ] Do this
+        - [ ] Do that
+        - [ ] Write tests for this
+        - [ ] Write tests for that
+       
