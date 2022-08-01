@@ -7,6 +7,7 @@ Closes #0
 
 ## Change Type
 ### Category
+- [ ] This is a Minor Change which does not fit any other category.
 - [ ] This is a Bugfix
 - [ ] This is a Feature Addition
 - [ ] This is a CI Change
@@ -21,6 +22,7 @@ change cannot be implemented in a non-breaking way. If you answered "This is a N
 
 ## Copyright Assignment
 - [ ] I have filled out the copyright assignment at https://copyright.morpheus636.com for this pull request.
+- [ ] I **am** Morpheus636 so I do not need to fill out the copyright assignment.
 
 #### Why do I require a copyright assignment?
 <details>
